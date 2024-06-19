@@ -6,4 +6,4 @@ Explore the responsive Figma prototype designed to address Sustainable Developme
 - Press "M" on your keyboard to autofill any text field.
 - Click outside the phone to highlight areas where you can press.
 
-- Ready to try Care IT? Click [here](https://www.figma.com/proto/jQeY4EmFib7qhMdtaThQfQ/Careit---Mental-Health-Stigma?page-id=0%3A1&node-id=228-178&viewport=545%2C795%2C0.14&t=Fou1jq3lTpB0Msec-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=296%3A1114) to get started!
+- Ready to try Care IT? Click [here](https://www.figma.com/proto/jQeY4EmFib7qhMdtaThQfQ/Careit---Mental-Health-Stigma?page-id=0%3A1&node-id=296-1114&viewport=545%2C795%2C0.14&t=DDOpYVpEXqRbjCX6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=296%3A1114) to get started!
