@@ -16,6 +16,6 @@ Explore the responsive Figma prototype designed to address Sustainable Developme
 &nbsp;
 
 <p align="center">
-  <img src="[https://github.com/haikalfitri/COVID-19-Data-Insights-Cases-Deaths-and-Vaccinations/blob/main/assets/pbi%20c19%202nd%20page.png](https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png)" alt="Second Page" width="600" />
+  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="600" />
 </p>
-<p align="center"><strong>Workflow</strong></p>
+<p align="center"><strong>Design</strong></p>
