@@ -11,11 +11,11 @@ Explore the responsive Figma prototype designed to address Sustainable Developme
 <p align="center">
   <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/fifth%20project.png" alt="First Page" width="600" />
 </p>
-<p align="center"><strong>Design</strong></p>
+<p align="center"><strong><u>Design<u></strong></p>
 
 &nbsp;
 
 <p align="center">
   <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="600" />
 </p>
-<p align="center"><strong>Design</strong></p>
+<p align="center"><strong><u>Workflow<<u>/strong></p>
