@@ -9,14 +9,14 @@ Explore the responsive Figma prototype designed to address Sustainable Developme
 - Ready to try Care IT? Click [here](https://www.figma.com/proto/jQeY4EmFib7qhMdtaThQfQ/Careit---Mental-Health-Stigma?page-id=0%3A1&node-id=296-1114&viewport=545%2C795%2C0.14&t=DDOpYVpEXqRbjCX6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=296%3A1114) to get started!
 
 <p align="center">
-  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/fifth%20project.png" alt="First Page" width="700" />
+  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/fifth%20project.png" alt="First Page" width="1000" />
 </p>
 <p align="center"><strong><u>Design</u></strong></p>
 
 &nbsp;
 
 <p align="center">
-  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="1100" />
+  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="1000" />
 </p>
 <p align="center"><strong><u>Workflow</u></strong></p>
 
