@@ -16,6 +16,7 @@ Explore the responsive Figma prototype designed to address Sustainable Developme
 &nbsp;
 
 <p align="center">
-  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="700" />
+  <img src="https://github.com/haikalfitri/CareIT-Figma-Prototype/blob/main/images/workflow.png" alt="First Page" width="1100" />
 </p>
-<p align="center"><strong><u>Workflow</u>strong></p>
+<p align="center"><strong><u>Workflow</u></strong></p>
+
